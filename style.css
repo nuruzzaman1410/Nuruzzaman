@@ -1,0 +1,28 @@
+body{
+    font-family: 'Ephesis', cursive;
+    color: crimson;
+}
+.container-fluid{
+    background-color: rgb(19, 13, 13);
+    color: white;
+}
+
+#td1{
+    background-color: rgb(46, 178, 240);
+    width: 25%
+}
+
+#td2{
+    background-color: white;
+    width: 50%;
+
+}
+
+#td3{
+    background-color:yellow ;
+    width: 25%;
+}
+
+.navbar{
+    font-size:25px;
+}
